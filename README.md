@@ -11,3 +11,5 @@ Opening Window in the Editor in Edit mode it is possible to find three differend
 After the landscape is complete and satisfying an agent can be spawned to test its navigability.
 Pressing Play in the Unity Editor, the Navigation Mesh is created, and the
 Spawn Button to add the Agent is placed randomly on the Navigation Surface. It starts to wander around the terrain. 
+
+The projet is done in Unity 2020.3.0f1 version.
